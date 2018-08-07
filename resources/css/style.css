@@ -1,5 +1,5 @@
 body {
-    color: white;
+
     text-align: center;
     font-family: Helvetica, sans-serif;
 }
@@ -8,11 +8,28 @@ body {
     background-image: url("../images/the-flatiron-building.png");
 }
 
+h1, p a, .new-york, h4, a {
+    color: white;
+}
+
 h1 {
     font-size: 70px;
     font-weight: bold;
 }
 
-p a {
+p a, a {
     font-size: 18px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 11px;
+}
+
+.footpage {
+    background-image: dimgray;
 }
