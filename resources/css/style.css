@@ -4,8 +4,15 @@ body {
     font-family: Helvetica, sans-serif;
 }
 
+.menu {
+    background-image: url("../images/the-flatiron-building.png");
+}
+
 h1 {
     font-size: 70px;
     font-weight: bold;
-    background-image: image("./")
+}
+
+p a {
+    font-size: 18px;
 }
